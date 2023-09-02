@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NelliAbhi
+- 👋 Hi, I’m @NelliAbhi !
 - 👀 I’m interested in Data Science and Analytics, and tech in general.
 - 🌱 I'm currently pursuing my Master's degree in Data Analytics from George Washington University in Washington DC, USA.
 - 👨‍💼 Prior to this, I have 2 years of work experience as a Data Analyst at Ernst & Young, in Bangalore, India.
